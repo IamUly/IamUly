@@ -29,6 +29,8 @@ Developing independent ventures and exploring technology-driven business opportu
 
 Business applications · Workflow automation · Operational analytics · AI-assisted software development
 
+
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/uly-catalan) · [Email](mailto:ucatalan@me.com)
+[Personal Portfolio](https://iamuly.pages.dev) · [LinkedIn](https://www.linkedin.com/in/uly-catalan) · [Email](mailto:ucatalan@me.com)
+
