@@ -32,5 +32,5 @@ Business applications · Workflow automation · Operational analytics · AI-assi
 
 ## Connect
 
-[Personal Portfolio](https://iamuly.pages.dev) · [LinkedIn](https://www.linkedin.com/in/uly-catalan) · [Email](mailto:ucatalan@me.com)
+[Portfolio](https://iamuly.pages.dev) · [LinkedIn](https://www.linkedin.com/in/uly-catalan) · [Email](mailto:ucatalan@me.com)
 
